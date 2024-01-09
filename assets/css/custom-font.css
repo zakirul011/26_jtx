@@ -1,0 +1,101 @@
+/* Objectivity */
+@font-face {
+   font-family: "Objectivity";
+   src: url("./../fonts/Objectivity/Objectivity-Regular.eot");
+   src: url("./../fonts/Objectivity/Objectivity-Regular.eot?#iefix")
+         format("embedded-opentype"),
+      url("./../fonts/Objectivity/Objectivity-Regular.woff2") format("woff2"),
+      url("./../fonts/Objectivity/Objectivity-Regular.woff") format("woff"),
+      url("./../fonts/Objectivity/Objectivity-Regular.ttf") format("truetype"),
+      url("./../fonts/Objectivity/Objectivity-Regular.svg#Objectivity-Regular")
+         format("svg");
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "Objectivity";
+   src: url("./../fonts/Objectivity/Objectivity-Medium.eot");
+   src: url("./../fonts/Objectivity/Objectivity-Medium.eot?#iefix")
+         format("embedded-opentype"),
+      url("./../fonts/Objectivity/Objectivity-Medium.woff2") format("woff2"),
+      url("./../fonts/Objectivity/Objectivity-Medium.woff") format("woff"),
+      url("./../fonts/Objectivity/Objectivity-Medium.ttf") format("truetype"),
+      url("./../fonts/Objectivity/Objectivity-Medium.svg#Objectivity-Medium")
+         format("svg");
+   font-weight: 500;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "Objectivity";
+   src: url("./../fonts/Objectivity/Objectivity-Bold.eot");
+   src: url("./../fonts/Objectivity/Objectivity-Bold.eot?#iefix")
+         format("embedded-opentype"),
+      url("./../fonts/Objectivity/Objectivity-Bold.woff2") format("woff2"),
+      url("./../fonts/Objectivity/Objectivity-Bold.woff") format("woff"),
+      url("./../fonts/Objectivity/Objectivity-Bold.ttf") format("truetype"),
+      url("./../fonts/Objectivity/Objectivity-Bold.svg#Objectivity-Bold")
+         format("svg");
+   font-weight: bold;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "Objectivity";
+   src: url("./../fonts/Objectivity/Objectivity-ExtraBold.eot");
+   src: url("./../fonts/Objectivity/Objectivity-ExtraBold.eot?#iefix")
+         format("embedded-opentype"),
+      url("./../fonts/Objectivity/Objectivity-ExtraBold.woff2") format("woff2"),
+      url("./../fonts/Objectivity/Objectivity-ExtraBold.woff") format("woff"),
+      url("./../fonts/Objectivity/Objectivity-ExtraBold.ttf") format("truetype"),
+      url("./../fonts/Objectivity/Objectivity-ExtraBold.svg#Objectivity-ExtraBold")
+         format("svg");
+   font-weight: 800;
+   font-style: normal;
+   font-display: swap;
+}
+
+/* Mohave */
+@font-face {
+   font-family: 'Mohave';
+   src: url('./../fonts/Mohave/Mohave-Bold.eot');
+   src: url('./../fonts/Mohave/Mohave-Bold.eot?#iefix') format('embedded-opentype'),
+       url('./../fonts/Mohave/Mohave-Bold.woff2') format('woff2'),
+       url('./../fonts/Mohave/Mohave-Bold.woff') format('woff'),
+       url('./../fonts/Mohave/Mohave-Bold.ttf') format('truetype'),
+       url('./../fonts/Mohave/Mohave-Bold.svg#Mohave-Bold') format('svg');
+   font-weight: bold;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'Mohave';
+   src: url('./../fonts/Mohave/Mohave-Medium.eot');
+   src: url('./../fonts/Mohave/Mohave-Medium.eot?#iefix') format('embedded-opentype'),
+       url('./../fonts/Mohave/Mohave-Medium.woff2') format('woff2'),
+       url('./../fonts/Mohave/Mohave-Medium.woff') format('woff'),
+       url('./../fonts/Mohave/Mohave-Medium.ttf') format('truetype'),
+       url('./../fonts/Mohave/Mohave-Medium.svg#Mohave-Medium') format('svg');
+   font-weight: 500;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'Mohave';
+   src: url('./../fonts/Mohave/Mohave-Regular.eot');
+   src: url('./../fonts/Mohave/Mohave-Regular.eot?#iefix') format('embedded-opentype'),
+       url('./../fonts/Mohave/Mohave-Regular.woff2') format('woff2'),
+       url('./../fonts/Mohave/Mohave-Regular.woff') format('woff'),
+       url('./../fonts/Mohave/Mohave-Regular.ttf') format('truetype'),
+       url('./../fonts/Mohave/Mohave-Regular.svg#Mohave-Regular') format('svg');
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+
